@@ -1,9 +1,9 @@
 # Passengers-Feedback-and-Overall-Experiences-On-Airlines-Prediction
 Capstone Project Submitted towards the partial fulfillment of the criteria for award of Post Graduate In Data Analytics by Imarticus
 # About the Dataset
-Aim
+# Aim
 To identify the level of satisfaction of thepassengers to know the quality of services provided by the airline companies and customer satisfaction.Identify the ways how the airline companies can improve the service quality furthermore, thereby helps in enhancing their services for the future growth of the airline companies.
-Data Description
+# Data Description
 * Gender: Gender of the passengers (Female, Male)
 * Customer Type: The customer type (Loyal customer, disloyal customer)
 * Age: The actual age of the passengers
